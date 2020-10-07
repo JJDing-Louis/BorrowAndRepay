@@ -1,0 +1,10 @@
+D:\Personal-Work-Space\C# Project\BorrowAndRepay\bin\Debug\BorrowAndRepay.exe.config
+D:\Personal-Work-Space\C# Project\BorrowAndRepay\bin\Debug\BorrowAndRepay.exe
+D:\Personal-Work-Space\C# Project\BorrowAndRepay\bin\Debug\BorrowAndRepay.pdb
+D:\Personal-Work-Space\C# Project\BorrowAndRepay\obj\Debug\BorrowAndRepay.csprojAssemblyReference.cache
+D:\Personal-Work-Space\C# Project\BorrowAndRepay\obj\Debug\BorrowAndRepay.Form1.resources
+D:\Personal-Work-Space\C# Project\BorrowAndRepay\obj\Debug\BorrowAndRepay.Properties.Resources.resources
+D:\Personal-Work-Space\C# Project\BorrowAndRepay\obj\Debug\BorrowAndRepay.csproj.GenerateResource.cache
+D:\Personal-Work-Space\C# Project\BorrowAndRepay\obj\Debug\BorrowAndRepay.csproj.CoreCompileInputs.cache
+D:\Personal-Work-Space\C# Project\BorrowAndRepay\obj\Debug\BorrowAndRepay.exe
+D:\Personal-Work-Space\C# Project\BorrowAndRepay\obj\Debug\BorrowAndRepay.pdb
